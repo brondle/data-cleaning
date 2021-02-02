@@ -1,0 +1,29 @@
+Question 1 - "Dusk or dawn?"
+0: Dusk
+1: Dawn
+
+Question 2 - "Heads or tails?"
+0: Heads
+1: Tails
+
+Question 3 - "Left or right?"
+0: Left
+1: Tails
+
+Question 4 - "Which pet would you bring to Hogwarts?"
+0: "Snake"
+1: "Rat"
+2: "Cat"
+3: "Owl"
+
+Score is >5:
+Gryffindor
+Score is > 3:
+Hufflepuff
+Score is > 1:
+Ravenclaw
+Score is < 1:
+Slytherin
+
+
+
